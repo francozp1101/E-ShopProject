@@ -1,2 +1,2 @@
-# E-ShopProject
-E-Commerce example Using PHP+AJAX+MariaDB
+# E-ShopProject.
+E-Commerce example - Using PHP+AJAX+MariaDB
